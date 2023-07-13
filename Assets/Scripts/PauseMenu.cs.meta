@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 35f698139accf134aacede568542fd15
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - GameHUDUI: {fileID: 4487027950177915533, guid: 27bfd9933d032b04e9943df54c8ab619, type: 3}
+  - PauseMenuUI: {fileID: 4399424372478535616, guid: 4728b803c04414547900d4bbfe7714bb, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
